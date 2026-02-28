@@ -1,8 +1,8 @@
 # Chinook Music Store: Global Sales & Inventory Analysis
 
 ## 📊 Business Dashboards
-![Regional Sales](regional_sales.png)
-![Genre Distribution](genre_pie.png)
+![Regional Sales](revenue_by_country.csv)
+![Genre Distribution](top_5_genres.csv)
 
 ## 🎯 Project Overview
 This project uses SQL to extract business-critical data from the Chinook digital music store database and Excel to visualize trends in global revenue and genre popularity.
